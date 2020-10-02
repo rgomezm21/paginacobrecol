@@ -1,0 +1,23 @@
+.formulario {
+    width: 80%;
+    max-width: 500px;
+    border: 1px solid #CCC5C9;
+    margin: 20px auto;
+    padding: 20px 10px;
+}
+
+.h1 {
+    width: 80%;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 60px 10px;
+    text-align: center;
+}
+
+.datos {
+    width: 80%;
+    max-width: 900px;
+    margin: 10px auto;
+    padding: 30px 10px;
+    text-align: center;
+}

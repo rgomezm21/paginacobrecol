@@ -1,0 +1,52 @@
+.h1 {
+    width: 80%;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 60px 10px;
+    text-align: center;
+}
+
+@keyframes mover {
+    0% {
+        transform: translate(100%);
+    }
+}
+
+.cobrecol {
+    border: none;
+    margin: 10px;
+}
+
+#caja {
+    background: lavender;
+    transition: 300ms all;
+    margin: 10px;
+    text-align: center;
+}
+
+#caja1 {
+    background: lavender;
+    transition: 300ms all;
+    margin: 10px;
+    text-align: center;
+}
+
+.inner {
+    overflow: hidden;
+}
+
+.inner img {
+    transform: all 0.5s ease;
+}
+
+.inner:hover img {
+    transform: scale(1.2);
+}
+
+.tamaños {
+    max-height: 700px;
+}
+
+.img2 {
+    height: 400px;
+}
